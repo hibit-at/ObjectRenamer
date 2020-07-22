@@ -1,6 +1,6 @@
 This is the scropt to prevent name collision between objects.
 
-#Ctrl + T
+# Ctrl + T
 
 before
 
@@ -8,13 +8,13 @@ before
 
 after
 
-![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_288125_51f78832-3398-f4dd-9f2d-0e2fead890f5](https://user-images.githubusercontent.com/43929933/88143185-c17ed500-cc31-11ea-8c3e-3b3bb71eb9c6.png)
+![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_288125_65fb78b5-e61d-7877-5005-8008d35feca9](https://user-images.githubusercontent.com/43929933/88143193-c3489880-cc31-11ea-8f3d-15cba944caf5.png)
 
-#Ctrl + U
+# Ctrl + U
 
 before
 
-![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_288125_65fb78b5-e61d-7877-5005-8008d35feca9](https://user-images.githubusercontent.com/43929933/88143193-c3489880-cc31-11ea-8f3d-15cba944caf5.png)
+![https___qiita-image-store s3 ap-northeast-1 amazonaws com_0_288125_51f78832-3398-f4dd-9f2d-0e2fead890f5](https://user-images.githubusercontent.com/43929933/88143185-c17ed500-cc31-11ea-8c3e-3b3bb71eb9c6.png)
 
 after
 
